@@ -4,7 +4,8 @@
     "namespace": "android_app",
     "package_name": "com.chinesemate.app",
     "sha256_cert_fingerprints": [
-      "58:A4:FD:80:3E:E6:A0:80:DD:6B:A3:12:9E:A8:0B:47:65:E2:7E:81:6F:68:10:3B:CF:A5:F3:0A:C3:60:CA:2B"
+      "58:A4:FD:80:3E:E6:A0:80:DD:6B:A3:12:9E:A8:0B:47:65:E2:7E:81:6F:68:10:3B:CF:A5:F3:0A:C3:60:CA:2B",
+      "D7:B8:9B:64:6A:31:26:FF:31:6F:FD:AE:9E:C9:84:EF:1E:01:8B:6E:58:04:A0:49:5A:1A:13:37:96:C9:A6:63"
     ]
   }
 }]
